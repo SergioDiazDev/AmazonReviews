@@ -1,0 +1,4 @@
+El Dataset es demasiado pesado para subirlo aqui.
+
+Dataset Kaggle:
+https://www.kaggle.com/datasets/jillanisofttech/amazon-product-reviews
